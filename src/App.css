@@ -14,21 +14,21 @@
     text-decoration: none;
   }
   
-  /* .gradient__bg { */
-    /* background:-moz-radial-gradient(circle at 3% 25%, rgb(0, 83, 40) 0%, rgb(4, 24, 15) 25%); */
+  .gradient__bg {
+    background:-moz-radial-gradient(circle at 3% 25%, rgb(0, 83, 40) 0%, rgb(4, 24, 15) 25%); */
   
     
-    /* background:-webkit-radial-gradient(circle at 3% 25%, rgb(0, 83, 48) 0%, rgb(4, 24, 10) 25%); */
+    background:-webkit-radial-gradient(circle at 3% 25%, rgb(0, 83, 48) 0%, rgb(4, 24, 10) 25%); 
   
     
-    /* background:-o-radial-gradient(circle at 3% 25%, rgb(1, 121, 45) 0%, rgb(4, 24, 8) 25%); */
+     background:-o-radial-gradient(circle at 3% 25%, rgb(1, 121, 45) 0%, rgb(4, 24, 8) 25%);
   
     
-    /* background:-ms-radial-gradient(circle at 3% 25%, rgb(0, 83, 37) 0%, rgb(4, 24, 15) 25%); */
+    background:-ms-radial-gradient(circle at 3% 25%, rgb(0, 83, 37) 0%, rgb(4, 24, 15) 25%);
   
     
-    /* background:radial-gradient(circle at 3% 25%, rgb(0, 83, 39) 0%, rgb(4, 24, 8) 25%); */
-  /* } */
+     background:radial-gradient(circle at 3% 25%, rgb(0, 83, 39) 0%, rgb(4, 24, 8) 25%);
+   }
   
   .gradient__text {
     background: var(--gradient-text);
