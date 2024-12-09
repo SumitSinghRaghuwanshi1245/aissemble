@@ -15,7 +15,7 @@
   }
   
   .gradient__bg {
-    background:-moz-radial-gradient(circle at 3% 25%, rgb(0, 83, 40) 0%, rgb(4, 24, 15) 25%); */
+    background:-moz-radial-gradient(circle at 3% 25%, rgb(0, 83, 40) 0%, rgb(4, 24, 15) 25%); 
   
     
     background:-webkit-radial-gradient(circle at 3% 25%, rgb(0, 83, 48) 0%, rgb(4, 24, 10) 25%); 
